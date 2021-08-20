@@ -2,7 +2,7 @@
 - 👀 I’m django apps developer
 - 🌱 I’m currently working on an e-commerce app
 - 📫 How to reach me ...
-> (instagram)[https://instagram.com/iambedev]
+> [instagram](https://instagram.com/iambedev)
 
 <!---
 iamhusseinnaim/iamhusseinnaim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
