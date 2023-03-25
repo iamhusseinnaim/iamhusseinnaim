@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hussein Naim 
 - 👀 I’m django apps developer from Iraq 
 - 🌱 I’m currently working on an e-commerce app
-- 📫 How to reach me ...
+- 📫 Follow me ...
 > [instagram](https://instagram.com/iambedev)
 
 <!---
